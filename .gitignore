@@ -1,0 +1,7 @@
+data/raw/
+*.db
+*_clean.xlsx
+*_unzipped/
+pdf_reports/
+.ipynb_checkpoints/
+__pycache__/
